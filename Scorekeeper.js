@@ -8,7 +8,7 @@ var winningScore = document.querySelector("#winscore");
 var p1 = 0;
 var p2 = 0;
 var gameOver = true;
-var winningScore = 5
+var winningScore = 3;
 
 
 buttonOne.addEventListener("click", function () {
